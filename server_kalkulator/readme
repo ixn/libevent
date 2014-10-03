@@ -1,11 +1,1 @@
-
-
-Server Kalkulator Sederhana
-
-1. index.html di simpan di http server lokal anda, bisa menggunakan apache, nginx atau lainnya.
-2. Make
-3. ./server_kalkulator
-4. akses index.html yang anda simpan di server lokal anda melalui web browser, contoh http://localhost/server_kalkulator/index.html
-5. kemudian saatnya anda menggunakan kalkultornya.
-
-Thanks.
+blablalbal
