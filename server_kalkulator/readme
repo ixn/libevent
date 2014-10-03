@@ -1,1 +1,16 @@
-blablalbal
+
+Penggunaan Libevent Part #3
+http://deeprhezy.tumblr.com
+
+Server kalkulator Sederhana dengan Libevent C
+1. Copy index.html ke folder web server lokal anda. bisa menggunakan apace, nginx atau lainnya.
+2. make
+3. ./server_kalkulator
+4. buka index.html yang ada di web server anda menggunakan browser. contoh http://localhost/server_kalkultor/index.html
+5. Enjoy it
+
+Thanks
+
+
+
+
